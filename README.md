@@ -1,4 +1,4 @@
-# Sprint 11 - Análisis de Comportamiento de Usuarios y Test A/A/B
+# Análisis de Comportamiento de Usuarios y Test A/A/B
 
 ## Descripción del Proyecto
 
